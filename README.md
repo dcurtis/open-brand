@@ -1,5 +1,7 @@
 This is The Open Brand, a framework for clearly and properly defining a brand. The Open Brand aims to help open source projects, companies, and people develop brand definitions that can be used properly, developed quickly, and referenced consistently.
 
+Because of its structure, the Open Brand can be used by stakeholders possessing any level of design experience.
+
 In addition to the following README, see inside the png/, psd/, spec/, and svg/ folders for individual READMEs which define the structure of an Open Brand. 
 
 For an example of an Open Brand in use, see [The Markdown Mark](http://github.com/dcurtis/markdown-mark).
